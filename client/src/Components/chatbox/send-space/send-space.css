@@ -1,0 +1,30 @@
+
+input{
+    justify-content: flex-start;
+    width:100%;
+}
+.send{
+
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+}
+
+.sbtn{
+    justify-content: flex-end;
+    width: 100px;
+    border-radius: 8px;
+    color: aqua;
+    border: 2px solid whitesmoke;
+    background-color: #4f04ff21;
+    margin-left: 20px;  
+}
+.sbtn:hover{
+    background-color:aqua;
+    color: black;
+    border: 2px solid
+    
+}
